@@ -1,5 +1,5 @@
 # designSoftware2022-2
-grupo para trabalho de design de software 2022-2
+_grupo para trabalho de design de software 2022-2_
 ## participantes
 * Flavimar da Silva Almeida  - 201905529
 * Giancarlo oliveira Silva   - 201905531
