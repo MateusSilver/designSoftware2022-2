@@ -1,5 +1,5 @@
-# designSoftware2022-2
-_grupo para trabalho de design de software 2022-2_
+# Design Software 2022-2
+_Grupo para trabalho de design de software 2022-2_
 ## participantes
 
 |  Nome | Matrícula   |
@@ -12,4 +12,9 @@ _grupo para trabalho de design de software 2022-2_
 | Vitor Henrique Ferreira de Brito | 201910913 |
 
 ## Objetivo
-Criação do design de software de um sistema de controle  hospitalar 
+   Diante da crescente evolução do mundo tecnológico, tudo ao redor também foi crescendo indiscutivelmente, os sistemas, principalmente ligados a área da saúde se tornaram fundamentais, auxiliando nas atividades de hospitais, clínicas, consultórios, entre diversos outros.
+   
+   Os sistemas de software, são responsáveis por suprir as necessidades que as pessoas enfrentam, em diversas situações, os mesmos precisam conter requisitos aos quais são capazes de auxiliar em determinado problema. Em relação à área da saúde, os softwares são usados geralmente, como sistemas para computadores, de forma online, sincronizados com outros softwares, salvando e compartilhando informações.
+   
+   Portanto, este trabalho irá abordar o levantamento e especificações de requisitos, produzindo o design do software referente ao sistema de gestão hospitalar (GCC).
+
