@@ -18,3 +18,13 @@ _Grupo para trabalho de design de software 2022-2_
    
    Portanto, este trabalho irá abordar o levantamento e especificações de requisitos, produzindo o design do software referente ao sistema de gestão hospitalar (GCC).
 
+## GCC
+O software em questão, GCC, tem por objetivo, gerenciar agendamentos e informações referentes a unidades hospitalares.
+
+Os principais requisitos desse sistema são:
+
+* Cadastro de pacientes;
+* Cadastro de médicos;
+* Agendamento de consultas, baseado na disponibilidade do médico;
+* Compartilhamento de dados do paciente na base nacional;
+
