@@ -1,6 +1,6 @@
 # Design Software 2022-2
 _Grupo para trabalho de design de software 2022-2_
-## participantes
+## Participantes
 
 |  Nome | Matrícula   |
 | :--- | ---: |
