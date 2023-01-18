@@ -28,3 +28,4 @@ Os principais requisitos desse sistema são:
 * Agendamento de consultas, baseado na disponibilidade do médico;
 * Compartilhamento de dados do paciente na base nacional;
 
+*Ferramenta utilizada nos modelos:* [C4Model](https://online.visual-paradigm.com/pt/diagrams/features/c4-model-tool/)
