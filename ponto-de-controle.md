@@ -18,7 +18,7 @@ O software é limitado á:
 5. Contratos de equipe: os arquivos são organizados no padrão de arquitetura mvc e seguindo os padrões de design pattern
 
 ### Limites do Design de Software
-O design do projeto foi limitado a explosão dos container principais do sistema sendo eles a api, o banco de dados e o worker pois foram definidos como prioriades por terem alta complexidade.
+O design do projeto foi limitado ao detalhamento dos containers principais do sistema sendo eles a api, o banco de dados e o worker pois foram definidos como prioriades por terem alta complexidade.
 
 ### Processo de Design
 __Abordagem Top-Down__ realizada para o software em questão definindo estrutura básica de comunicação entre cada parte do sistema do GCC para realizar seus propósitos e após identificar necessidades adicionais de adição de outros elementos.
