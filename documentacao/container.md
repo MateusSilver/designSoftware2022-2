@@ -1,6 +1,6 @@
-## Diagrama de contexto
+## Diagrama de conteires
 
-O diagrama a seguir, ilustra os componentes da aplicação.
+O diagrama a seguir, ilustra os conteires da aplicação.
 
 
 ![](diagramas/c4_container.png)
