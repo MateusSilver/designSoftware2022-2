@@ -1,6 +1,6 @@
-## Diagrama de conteires
+## Diagrama de contêineres
 
-O diagrama a seguir, ilustra os conteires da aplicação.
+O diagrama a seguir, ilustra os contêineres da aplicação.
 
 
 ![](diagramas/c4_container.png)
