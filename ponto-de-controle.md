@@ -7,18 +7,18 @@ O projeto GCC tem como finalidade criar um software que traga segurança, facili
 #### Limite
 O software é limitado á:
 * Preenchimeto dos dados do paciente
-* Preenchimento da consulta feita
+* Preenchimento da consulta feita ao paciente
 * Preenchimento do resultado do exame feito no paciente
-* Envio e busca dos dados coletados do paciente no RNDS
+* Envio e busca dos dados do paciente no RNDS
 #### Contrato
 1. Contratos de usuário: O usuario irá interagir com o sistema pela web
-2. Contratos de Integração: a integração será feita por API pois possibilita a comunicação do software com varios serviços
-3. Contratos de API: será usado o swagger para documentação da api
-4. Contratos de Dados: o modelo de dados será o orientado a objetos que são armazenados no banco relacional com restrições de formatação condizentes com as especificações do rnds 
-5. Contratos de equipe: os arquivos são organizados no padrão de arquitetura mvc e seguindo os padrões de design pattern
+2. Contratos de Integração: a integração será feita pela web utilizando serviços de API pois possibilita a comunicação do software com outros sistemas e dever ter alto nível de segurança dado o trafego de dados sensíveis
+3. Contratos de API: será usado o swagger para documentação da api descrevendo os endpoints e parâmetros da aplicação
+4. Contratos de Dados: o modelo de dados será orientado a objetos que são armazenados no banco relacional com restrições de formatação condizentes com as especificações do RNDS 
+5. Contratos de equipe: os arquivos são organizados no padrão de arquitetura MVC e seguindo os padrões de design pattern
 
 ### Limites do Design de Software
-O design do projeto foi limitado ao detalhamento dos containers principais do sistema sendo eles a api, o banco de dados e o worker pois foram definidos como prioriades por terem alta complexidade.
+O design do projeto foi limitado ao detalhamento dos containers principais do sistema sendo eles a api, o banco de dados e o worker pois foram definidos como prioridades por terem alta complexidade, sendo o detalhamento feito no padrão C4 model com modelagem dos diagramas necessários para documentar as decisões do projeto.
 
 ### Processo de Design
 __Abordagem Top-Down__ realizada para o software em questão definindo estrutura básica de comunicação entre cada parte do sistema do GCC para realizar seus propósitos e após identificar necessidades adicionais de adição de outros elementos.
