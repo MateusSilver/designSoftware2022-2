@@ -38,6 +38,6 @@ Ainda não foram implementados diagramas de negócio no projeto.
 #### Schemas
 Schemas serão formatados de acordo com os dados e especificações recebidos da Rede Nacional de Dados da Saúde (RNDS).
 #### Topologias
-As topologias utilizadas para a compreensão da infraestrutura necessária para o funcionamento do sistema GCC foram o diagrama de componentes e o diagrama de containers.
+As topologias utilizadas para a compreensão da infraestrutura necessária para o funcionamento do sistema GCC foram o [Diagrama de Componentes](https://github.com/MateusSilver/designSoftware2022-2/blob/main/documentacao/componente.md) e o [Diagrama de Contêineres](https://github.com/MateusSilver/designSoftware2022-2/blob/main/documentacao/container.md).
 
 
