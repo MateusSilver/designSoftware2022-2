@@ -21,10 +21,10 @@ O software é limitado a:
 O design do projeto foi limitado ao detalhamento dos containers principais do sistema sendo eles a api, o banco de dados e o worker pois foram definidos como prioridades por terem alta complexidade, sendo o detalhamento feito no padrão C4 model com modelagem dos diagramas necessários para documentar as decisões do projeto.
 
 ### Processo de Design
-__Abordagem Top-Down__ realizada para o software em questão definindo estrutura básica de comunicação entre cada parte do sistema do GCC para realizar seus propósitos e após identificar necessidades adicionais de adição de outros elementos.
+__Abordagem Top-Down__ realizada para o software em questão definindo estrutura básica de comunicação entre cada parte do sistema do GCC para realizar seus propósitos e após identificar necessidades adicionais de desmembramento em outros elementos.
 ### Ferramentas de design
 #### Geral
-Atualmente a única ferramenta de design utilizada para modelar o software é o . Usando a versão online foi realizado o diagrama de contexto.
+Estas são as ferramentas de design que foram utilizadas para modelar o design do projeto:
 * [Visual Paradigm - C4 Model](https://online.visual-paradigm.com/pt/diagrams/features/c4-model-tool/)
 * [Diagram.net (draw.io)](diagram.net)
 #### Visual
