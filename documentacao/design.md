@@ -18,4 +18,4 @@ Através do diagrama de classe, temos a separação das responsabilidades e dos 
 
 O MER é utilizado para descrever os objetos do mundo real através de entidades, com suas propriedades que são os atributos e os seus relacionamento, visualizando a interação que cada entidade terá umas com as outras.
 
-![](diagramas/mer-vers%C3%A3o2.png)
+![](diagramas/mer.png)
